@@ -1,5 +1,4 @@
-# Power-BI
-Hi, I'm Shashank. I'm a Data Analyst with two years of experience at Infosys, specializing in Power BI and SQL. I've worked on data warehousing and business intelligence projects, creating reports and dashboards to drive data-driven decisions. I'm passionate about turning data into insights and hold certifications in Power BI and Azure AI.
+
 # Hi, I'm Shashank! 👋
 
 Welcome to my GitHub portfolio! I'm a Data Analyst with 2 years of hands-on experience at Infosys, specializing in Power BI, SQL, and Azure. I'm passionate about transforming data into actionable insights and creating impactful visualizations.
@@ -34,13 +33,6 @@ I'm a Data Analyst with a strong foundation in SQL, Power BI, Spark, PySpark, Az
 
 ## Projects
 
-### OP Financial Group Data Analysis (Infosys)
-
-* Developed Teradata SQL queries for banking entities (credit cards, loans).
-* Implemented data warehouse views and architecture layers.
-* Designed and developed Power BI reports and dashboards for data-driven insights.
-* Ensured data quality, security, and compliance.
-* Troubleshot and resolved technical issues.
 
 ### [Add a Personal Power BI Project Here - Example]
 
